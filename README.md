@@ -36,6 +36,7 @@ Getting Started
 Prerequisites
 
 •	Python 3.x
+
 •	Required Libraries: numpy, pandas, matplotlib, sklearn
 
 Installation
